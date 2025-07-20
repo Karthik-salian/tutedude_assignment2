@@ -9,8 +9,10 @@ It checks whether the number is even or odd and prints the result accordingly.
 
 **Output1**
 Enter a number: 7
+
 7 is an odd number
 
 **Output2**
 Enter a number: 12
+
 12 is an even number
