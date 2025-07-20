@@ -18,3 +18,11 @@ Enter a number: 7
 Enter a number: 12
 
 12 is an even number
+
+## Task 2: Sum of Numbers from 1 to 50
+
+This Python script calculates the sum of all numbers from 1 to 50 using a loop.  
+It then prints the total sum as the output.
+
+**Example Output:**
+The sum of numbers from 1 to 50 is: 1275
